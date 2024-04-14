@@ -1,0 +1,1 @@
+- 🏢 **se crea prueba para insercion , consulta ,actualizacion,y eliminacion con conexion a jdbc**
